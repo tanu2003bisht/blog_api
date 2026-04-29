@@ -16,6 +16,6 @@ const blogRoutes = require('./routes/blogRoutes');
 
 app.use('/blog',blogRoutes);
 
-app.listen(3000, () =>{
+app.listen(PORT, () =>{
     console.log("localhost is running");
 })
