@@ -1,0 +1,5 @@
+#ignore the modules
+node_modules/
+.env
+
+mongodb+srv://tbisht939_db_user:<db_password>@cluster0.ecnyw6k.mongodb.net/
